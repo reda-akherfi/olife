@@ -1,0 +1,8 @@
+streamlit>=1.46
+pandas>=2.2
+numpy>=1.25
+sqlmodel>=0.0.16
+pydantic>=2.5
+python-dotenv>=1.0
+statsforecast>=1.5
+scikit-learn>=1.4
